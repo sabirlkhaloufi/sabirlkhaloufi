@@ -1,12 +1,12 @@
-
 ![Logo](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabir.png)
 
+# Hi, I'm Sabir Lkhaloufi!👋
 
 ## 🚀 About Me
 I'm a front end developer...
 
 ## 🛠 Skills
-HTML, CSS, ..............
+HTML, CSS, adobe xd, photoshop..............
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
