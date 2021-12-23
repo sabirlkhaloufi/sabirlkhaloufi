@@ -1,14 +1,13 @@
-![Logo](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabir.png)
+### Hi there 👋, my name is Sabir Lkhaloufi
+#### I am front end developer
+![I am front end developer](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabir.png)
 
-# Hi, I'm Sabir Lkhaloufi!👋
+I made this project just for fun, it allows you to create nice and simple site web .
 
-## 🚀 About Me
-I'm a front end developer...
+Skills:  HTML / CSS/............................
 
-## 🛠 Skills
-HTML, CSS, adobe xd, photoshop..............
+- 🔭 I’m currently working on this page. 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+
