@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple site web .
 
-Skills:  HTML / CSS/ / Adobe xd / Photoshop ...............
+Skills:  HTML / CSS/ bootstrap / Adobe xd / Photoshop ...............
 
 - 🔭 I’m currently working on on projects front end in scool 
 - 🌱 I’m currently learning learn the basics for langague  front end developer  
