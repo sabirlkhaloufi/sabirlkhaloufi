@@ -4,11 +4,11 @@
 
 I made this project just for fun, it allows you to create nice and simple site web .
 
-##skills:
-  ###Front end: HTML-CSS-JAVASCRIPT-BOOTSTRAP.
-  ###Back end: PHP-SQL.
-  ###Design: Adobe xd-Adobe Photoshop-Figma-Adobe illustrateur.
-  ###work tool: Git-Github-Vscode-PhpStorm.
+## skills:
+  ### Front end: HTML-CSS-JAVASCRIPT-BOOTSTRAP.
+  ### Back end: PHP-SQL.
+  ### Design: Adobe xd-Adobe Photoshop-Figma-Adobe illustrateur.
+  ### work tool: Git-Github-Vscode-PhpStorm.
   
 
 - 🔭 I’m currently working on on projects front end in scool 
