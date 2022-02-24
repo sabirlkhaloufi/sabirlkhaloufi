@@ -4,7 +4,12 @@
 
 I made this project just for fun, it allows you to create nice and simple site web .
 
-Skills:  HTML / CSS/ bootstrap / Adobe xd / Photoshop ...............
+##skills:
+  ###Front end: HTML-CSS-JAVASCRIPT-BOOTSTRAP.
+  ###Back end: PHP-SQL.
+  ###Design: Adobe xd-Adobe Photoshop-Figma-Adobe illustrateur.
+  ###work tool: Git-Github-Vscode-PhpStorm.
+  
 
 - 🔭 I’m currently working on on projects front end in scool 
 - 🌱 I’m currently learning learn the basics for langague  front end developer  
