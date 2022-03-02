@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sabir Lkhaloufi</h1>
 
-(https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+(![Github Banner](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
 
 <h1 align="center">Hi , I'm Sabir Lkhaloufi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
