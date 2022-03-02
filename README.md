@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Sabir Lkhaloufi
-#### I am student youcode
-![I am front end developer](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+(https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
+
+![I am front end developer]
 ##### https://www.sabirkhaloufi.me/
 I made this project just for fun, it allows you to create nice and simple site web .
 
