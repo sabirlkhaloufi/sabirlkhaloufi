@@ -2,32 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sabir Lkhaloufi</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=flat" alt="sabirlkhaloufi" /> </p>
-
-- 🔭 I’m currently working on **Restaurant youcode**
-
-- 👯 I’m looking to collaborate on [Portfolio](https://github.com/sabirlkhaloufi/sabirlkhaloufi.github.io)
-
-- 👨‍💻 All of my projects are available at [https://github.com/sabirlkhaloufi/sabirlkhaloufi.github.io](https://github.com/sabirlkhaloufi/sabirlkhaloufi.github.io)
-</hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Github Banner](![Github Banner](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
 
 <h1 align="center">Hi , I'm Sabir Lkhaloufi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -55,10 +29,7 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdessalam-Elboukri&theme=algolia" alt="abdessalam" /></p>
 
-<br>
 <br>
 
 
