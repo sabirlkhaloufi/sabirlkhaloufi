@@ -45,7 +45,7 @@
 <br>
 
 
-## 🛠️ My Skills
+<h3 align="center">🛠️ My Skills:</h3>
 
 
 ### 👉 Programming languages
