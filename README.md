@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sabir Lkhaloufi</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
 
-![Github Banner](![Github Banner](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+(https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
 
 <h1 align="center">Hi , I'm Sabir Lkhaloufi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
