@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Sabir Lkhaloufi
-(https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
 
 ![I am front end developer]
