@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sabir Lkhaloufi
+
 https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
@@ -13,7 +13,7 @@ https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png
 - 👯 I’m looking to collaborate on [Portfolio](https://github.com/sabirlkhaloufi/sabirlkhaloufi.github.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabirlkhaloufi/sabirlkhaloufi.github.io](https://github.com/sabirlkhaloufi/sabirlkhaloufi.github.io)
-
+</hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sabirlkhaloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabirlkhaloufi" height="30" width="40" /></a>
