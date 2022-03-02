@@ -1,10 +1,8 @@
 
 https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Sabir Lkhaloufi</h1>
-<h3 align="center">I'm Full Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Full+Stack+Developper)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=flat" alt="sabirlkhaloufi" /> </p>
 
