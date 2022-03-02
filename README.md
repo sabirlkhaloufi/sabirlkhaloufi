@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sabir Lkhaloufi
 #### I am student youcode
 ![I am front end developer](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
-https://www.sabirkhaloufi.me/
+##### https://www.sabirkhaloufi.me/
 I made this project just for fun, it allows you to create nice and simple site web .
 
 ## skills:
@@ -20,7 +20,6 @@ I made this project just for fun, it allows you to create nice and simple site w
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sabirlkhaloufi)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi)](https://github.com/anuraghazra/github-readme-stats)
 
