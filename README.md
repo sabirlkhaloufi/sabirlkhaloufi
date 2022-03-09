@@ -8,30 +8,22 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
 
-
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" width="110px" /> 
+	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
 
-
 ## :sassy_man:  About me
 - :school: I am a Junior Web Developer at `YouCode` .
-- :technologist: I love using Software as a solution for every `Problem` .
-- :computer: I am a competitive programmer .
 - :student: I’m currently learning: `Front End` and `Back End`.
 - :thinking: I’m open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
-
+- 
 <br>
-
-
 <br>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,12 +36,10 @@
 
 <br>
 
-
 <h3 align="center">🛠️ My Skills:</h3>
 
 
 ### 👉 Programming languages
-
 <p> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white" width="42px">
