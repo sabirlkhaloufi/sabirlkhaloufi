@@ -27,11 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sabirlkhaloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabirlkhaloufi" height="30" width="40" /></a>
-
-<a href="https://fb.com/sabir lkhaloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabir lkhaloufi" height="30" width="40" /></a>
-	
-<a href="https://instagram.com/sabir khaluoufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sabir khaluoufi" height="30" width="40" /></a>
+<a href="https://twitter.com/LkhaloufiSabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agabiyounes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younes agabi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sabirlkhaloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="younes agabi" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="younes_agabi" height="30" width="40" /></a>
 </p>
 
 <br>
