@@ -27,12 +27,12 @@
 
 ### Hi there, I'm Rahma  👋 
 
-[![Linkedin:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahma-hassan-profile/)](https://www.linkedin.com/in/rahma-hassan-profile/)
+[![Linkedin:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
 [![Twitter:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1rahmahassan)](https://twitter.com/1rahmahassan)
 ![GitHub followers](https://img.shields.io/github/followers/rahmaahassan?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rahmaahassan&color=brightgreen">
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
 
 ## 👩🏻‍💻 &nbsp;About Me
 
