@@ -2,8 +2,8 @@
 
 [![Linkedin:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
 [![Twitter:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiSabir)](https://twitter.com/LkhaloufiSabir)
-![GitHub followers](https://img.shields.io/github/followers/rahmaahassan?label=Follow&style=social)
-<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
+![GitHub followers](https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&style=social)
+<img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
 <p align="center">
@@ -67,8 +67,8 @@
 
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=rahmaahassan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaahassan&layout=compact&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sabirlkhaloufi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi&layout=compact&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
 
 
 
