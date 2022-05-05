@@ -1,7 +1,7 @@
-### Hi there, I'm Rahma  👋 
+### Hi there, I'm Sabir Lkhaloufi  👋 
 
-[![Linkedin:Sabir](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
-[![Twitter:Sabir](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiSabir)](https://twitter.com/LkhaloufiSabir)
+[![Linkedin:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
+[![Twitter:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiSabir)](https://twitter.com/LkhaloufiSabir)
 ![GitHub followers](https://img.shields.io/github/followers/rahmaahassan?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 
@@ -13,7 +13,6 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
@@ -38,7 +37,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think I'm funny!
-- ✉️ &nbsp;You can shoot me an email at rahmahassan536@gmail.com! I'll try to respond as soon as I can
+- ✉️ &nbsp;You can shoot me an email at sabirkhaloufi@gmail.com! I'll try to respond as soon as I can
 
 
 ## 🔧 Technologies & Tools
