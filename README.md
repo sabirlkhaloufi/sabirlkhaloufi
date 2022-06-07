@@ -19,10 +19,6 @@
 
 ## :sassy_man:  About me
 - :school: I am a Junior Web Developer at `YouCode` .
-- :student: I’m currently learning: `Front End` and `Back End`.
-- :thinking: I’m open for: `An Intern` or a new `job opportunity`.
-- :nerd_face: Always `learning new things`
-- 
 <br>
 <br>
 
