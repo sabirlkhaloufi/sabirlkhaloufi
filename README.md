@@ -2,6 +2,7 @@
 
 [![Youtube:Sabir](https://img.shields.io/badge/-Sabir-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.Youtube.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.youtube.com/channel/UC6GNAIbkg1NV0LmhopxOxiA)
 [![Linkedin:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
+[![Facebook:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.Facebook.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.facebook.com/sabirlkhaloufi)
 [![Twitter:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiSabir)](https://twitter.com/LkhaloufiSabir)
 ![GitHub followers](https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
