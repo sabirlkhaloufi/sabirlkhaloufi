@@ -22,6 +22,8 @@
 ## :sassy_man:  About me
 - :school: I am a Junior Web Developer at `YouCode` .
 <br>
+*   🖥️  See my portfolio at [MyPortfolio](http://sabirkhaloufi.me)
+*   ✉️  You can contact me at [sabirkhaloufi@gmail.com](mailto:sabirkhaloufi@gmail.com)<a href="https://www.twitter.com/LkhaloufiSabir" target="_blank" rel="noreferrer">
 <br>
 
 
@@ -44,7 +46,6 @@
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 
-
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
@@ -52,42 +53,4 @@
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sabirlkhaloufi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi&layout=compact&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
-
-
-
-
-
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sabir lkhaloufi
-=======================================================================================================================================
-
-Full Stack Developer
---------------------
-
-*   🖥️  See my portfolio at [MyPortfolio](http://sabirkhaloufi.me)
-*   ✉️  You can contact me at [sabirkhaloufi@gmail.com](mailto:sabirkhaloufi@gmail.com)<a href="https://www.twitter.com/LkhaloufiSabir" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/LkhaloufiSabir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/sabirlkhaloufi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/sabirlkhaloufi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
-                               
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sabirlkhaloufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in//sabir-lkhaloufi-9aaab2209/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/LkhaloufiSabir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/UC6GNAIbkg1NV0LmhopxOxiA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sabirlkhaloufi"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=sabirlkhaloufi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/sabirlkhaloufi"><img src="https://activity-graph.herokuapp.com/graph?username=sabirlkhaloufi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/sabirlkhaloufi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-
 
