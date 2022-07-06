@@ -25,19 +25,6 @@
 <br>
 
 
-## 👩🏻‍💻 &nbsp;About Me
-
-## I'm a Full Stack Developer !!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I think I'm funny!
-- ✉️ &nbsp;You can shoot me an email at sabirkhaloufi@gmail.com! I'll try to respond as soon as I can
-
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
