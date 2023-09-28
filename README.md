@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+![SabirLkhalouficoverturegithub](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
@@ -22,12 +22,9 @@
 ## :sassy_man:  About me
 
 - 🖥️ I am a Software Developer | UI/UX Designer | Mobile Developer | full stack Developer |MernStack Developer.
-<br>
 - 🖥️  See my portfolio at [MyPortfolio](http://sabirlkhaloufi.me).
-<br>
 - ✉️  You can contact me at [sabirkhaloufi@gmail.com](http://mailto:sabirkhaloufi@gmail.com)
 <br>
-
 
 ## 🔧 Technologies & Tools
 <div align="center">
