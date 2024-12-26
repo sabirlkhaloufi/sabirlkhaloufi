@@ -22,7 +22,7 @@
 ## :sassy_man:  About me
 
 - 🖥️ I am a Software Developer | UI/UX Designer | Mobile Developer | full stack Developer |MernStack Developer.
-- 🖥️  See my portfolio at [MyPortfolio](http://sabirlkhaloufi.me).
+- 🖥️  See my portfolio at [MyPortfolio](http://sabirsoft.com).
 - ✉️  You can contact me at [sabirkhaloufi@gmail.com](http://mailto:sabirkhaloufi@gmail.com)
 <br>
 
